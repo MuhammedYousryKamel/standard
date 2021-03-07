@@ -1,5 +1,7 @@
 ## Standard - Ruby style guide, linter, and formatter
 
+
+
 [![Tests](https://github.com/testdouble/standard/workflows/Tests/badge.svg)](https://github.com/testdouble/standard/actions?query=workflow%3ATests)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
 [![Gem Version](https://badge.fury.io/rb/standard.svg)](https://rubygems.org/gems/standard)
@@ -54,6 +56,7 @@ flag.
   spaces be added to pad hashes
 - **And a good deal more**
 
+I need to change the base.yml to solve the rubocop issue for me
 If you're familiar with [RuboCop](https://github.com/rubocop-hq/rubocop), you
 can look at Standard's current base configuration in
 [config/base.yml](/config/base.yml). In lieu of a separate changelog file,
